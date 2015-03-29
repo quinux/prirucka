@@ -71,6 +71,7 @@ Kodérovi též můžeme říkat [frontend designér](http://kratce.vzhurudolu.c
 * Obecné pojmy: vektory, bitmapy, komprese, alfaprůhlednost, nástroje pro optimalizaci.
 * Rozdíly mezi JPG, GIF, PNG, WebP, SVG.
 * **[nové] **[Responzivní obrázky](http://www.vzhurudolu.cz/prirucka/responzivni-obrazky): [srcset a sizes](http://www.vzhurudolu.cz/prirucka/srcset-sizes), [`<picture>`](http://www.vzhurudolu.cz/prirucka/picture). ([školení](http://www.vzhurudolu.cz/kurzy/pokrocily-responzivni-design))
+* Ikonfonty [icomoon] (https://icomoon.io/), [fontello] (http://fontello.com/) a další. Kdy je vhodné použít a kdy se jim vyhnout.
 
 #### SVG
 
@@ -118,7 +119,7 @@ Kodérovi též můžeme říkat [frontend designér](http://kratce.vzhurudolu.c
 
 #### Verzování
 
-* Základy [verzování s ](http://rogerdudler.github.io/git-guide/)[git](http://rogerdudler.github.io/git-guide/)[em](http://rogerdudler.github.io/git-guide/). ([Kniha](http://knihy.nic.cz/files/nic/edice/scott_chacon_pro_git.pdf))
+* Základy [verzování s ](http://rogerdudler.github.io/git-guide/)[git](http://rogerdudler.github.io/git-guide/)[em](http://rogerdudler.github.io/git-guide/) ([Kniha](http://knihy.nic.cz/files/nic/edice/scott_chacon_pro_git.pdf)), [SVN] (http://svnbook.red-bean.com/) nebo [TFVC] (https://msdn.microsoft.com/en-us/library/ms181237.aspx) nebo jinými
 * Hosting a kolaborativní vývoj přes [Github](http://cs.wikipedia.org/wiki/GitHub), Bitbucket a další.
 
 #### Testování 
@@ -142,9 +143,9 @@ Kodérovi též můžeme říkat [frontend designér](http://kratce.vzhurudolu.c
 
 * Základní procesy a důvody pro ně: uživatelský výzkum, informační architektura, prototypování, uživatelské testování, A/B testování.
 
-#### Opensource redakční systémy a hotová řešení
+#### Redakční systémy a hotová řešení
 
-* Kdy je používat, jaké to má výhody a nevýhody?
+* Kdy zvolit OpenSource, placený systém nebo vyvíjet vlastní řešení, jaké to má výhody a nevýhody?
 * Základní povědomí o scénářích kdy je vhodné použít WordPress, Drupal, Joomla, ZenCart…
 * Hotové šablony: povědomí o scénářích kdy je vhodné je využít.
 
